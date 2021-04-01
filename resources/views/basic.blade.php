@@ -4,7 +4,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Student Management System</title>
         <link href="{{ asset('css/bootstarp.min.css') }}" rel="stylesheet" type="text/css" />
-        <link href="{{ asset('css/bootstrap-theme.min.css') }}" rel="stylesheet" type="text/css" />
         <link href="{{ asset('css/dataTables.bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
         <link href="{{ asset('css/custom.css') }}" rel="stylesheet" type="text/css" />
         <link rel="stylesheet"
